@@ -1,3 +1,3 @@
-## Dino Game and Angular - DIO
+## Dino Game and E-commerce - DIO
 
-Este repositório contém as soluções para os desafios dos `Labs Dino Game and Angular` propostos pela *Digital Innovation One*.
+Este repositório contém as soluções para os desafios dos `Labs Dino Game and E-commerce` propostos pela *Digital Innovation One*.
